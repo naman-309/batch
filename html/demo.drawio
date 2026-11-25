@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="72crl0kyt0mO7Vw354F5" name="Page-1">
-        <mxGraphModel dx="724" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="883" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -24,6 +24,30 @@
                 </mxCell>
                 <mxCell id="QXEs0e4x1kv4BnjtHsct-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="request / response cycle&amp;nbsp;" vertex="1">
                     <mxGeometry height="30" width="160" x="276" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="Y3vS0tWLUJyJbfEBNnI8-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="http/https" vertex="1">
+                    <mxGeometry height="30" width="60" x="180" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="Y3vS0tWLUJyJbfEBNnI8-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="url&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="180" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="Y3vS0tWLUJyJbfEBNnI8-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;" value="http://127.0.0.1:5500/html/index.html" vertex="1">
+                    <mxGeometry height="60" width="320" x="160" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="Y3vS0tWLUJyJbfEBNnI8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="port&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="40" width="90" x="168" y="145" as="geometry"/>
+                </mxCell>
+                <mxCell id="Y3vS0tWLUJyJbfEBNnI8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+                    <mxGeometry height="30" width="60" x="110" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="Y3vS0tWLUJyJbfEBNnI8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;" value="domain name&amp;nbsp;&lt;div&gt;- simple readable name&amp;nbsp; of website&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="220" y="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="Y3vS0tWLUJyJbfEBNnI8-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="dns&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="120" x="180" y="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="Y3vS0tWLUJyJbfEBNnI8-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="api -&amp;nbsp;&amp;nbsp;" vertex="1">
+                    <mxGeometry height="30" width="60" x="210" y="290" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="72crl0kyt0mO7Vw354F5" name="Page-1">
+        <mxGraphModel dx="724" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="QXEs0e4x1kv4BnjtHsct-3" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer;labelPerimeter=1;" value="" vertex="1">
+                    <mxGeometry height="100" width="111.11" x="40" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="QXEs0e4x1kv4BnjtHsct-4" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_Partial_128x128.png;labelPerimeter=1;" value="" vertex="1">
+                    <mxGeometry height="130" width="180" x="500" y="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="QXEs0e4x1kv4BnjtHsct-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="client /browser" vertex="1">
+                    <mxGeometry height="30" width="60" x="60" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="QXEs0e4x1kv4BnjtHsct-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="server" vertex="1">
+                    <mxGeometry height="40" width="90" x="545" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="QXEs0e4x1kv4BnjtHsct-9" parent="1" style="shape=singleArrow;whiteSpace=wrap;html=1;" value="req" vertex="1">
+                    <mxGeometry height="60" width="100" x="276" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="QXEs0e4x1kv4BnjtHsct-10" parent="1" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" value="res" vertex="1">
+                    <mxGeometry height="60" width="100" x="276" y="125" as="geometry"/>
+                </mxCell>
+                <mxCell id="QXEs0e4x1kv4BnjtHsct-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="request / response cycle&amp;nbsp;" vertex="1">
+                    <mxGeometry height="30" width="160" x="276" y="330" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

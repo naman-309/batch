@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple Box Sizing</title>
+    <style>
+        /* 1. Default Box (Bada ho jayega) */
+        .box1 {
+            box-sizing: content-box;
+            /* Default: padding aur border bahar judte hain */
+            width: 200px;
+            padding: 20px;
+            /* 20 left + 20 right = 40px extra */
+            border: 5px solid red;
+            /* 5 left + 5 right = 10px extra */
+            /* Total Width = 200 + 40 + 10 = 250px */
+        }
+
+        /* 2. Border Box (Exact 200px rahega) */
+        .box2 {
+            box-sizing: border-box;
+            /* Padding aur border 200px ke andar hi rehte hain */
+            width: 200px;
+            padding: 20px;
+            border: 5px solid green;
+            /* Total Width = 200px (Fixed) */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="box1">
+        Box 1: content-box (250px)
+    </div>
+
+    <br>
+
+    <div class="box2">
+        Box 2: border-box (200px)
+    </div>
+
+</body>
+
+</html>
